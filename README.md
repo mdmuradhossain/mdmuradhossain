@@ -20,6 +20,7 @@ I'm a full stack developer and loved to work with web application.
 - 📫 How to reach me: mdmuradhossain@hotmail.com
 - ⚡ Some fact: Introvert...
 ## 📭 Resume
+[Visit](https://mdmuradhossain.github.io/resume/)
 [Download](https://github.com/mdmuradhossain/portfolio/raw/master/resume/murad.pdf)
 ---
 ## 🔗 Social Links
