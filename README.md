@@ -1,7 +1,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I'm+Md+Murad+Hossain!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-  ### A full stack Software Developer
+  ### A full-stack Software Developer
 
 
 ## 🛠 Skills
