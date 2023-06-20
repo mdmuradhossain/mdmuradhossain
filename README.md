@@ -3,14 +3,13 @@
 
   ### A full-stack Software Developer
 
-
 ## 🛠 Skills
 ### FrontEnd Skills
 HTML, CSS, Javascript, Bootstrap, TailwindCSS, SCSS, Thymeleaf, Angular, Angular Material, GSAP...
 ### BackEnd Skills
 Java, Spring Framework, Spring Boot, Spring Data JPA/Hibernate, Spring Security, MySQL/MongoDB...
 ### Other Tools
-Git, Maven, NPM, Webpack, Docker, Jenkins, Junit, Mockito...
+Git, Maven, Gradle, NPM, Webpack, Docker, Jenkins, JUnit, Mockito, Jira, Selenium, Apache POI...
 ## 🚀 About Me
 
 I have studied Computer Science and Engineering at the University Of Liberal Arts Bangladesh, [ULAB](https://ulab.edu.bd/).. 
@@ -23,7 +22,7 @@ I'm a full-stack developer and love to work with web applications.
 - ⚡ Some fact: Introvert...
 ## 📭 Resume
 [Visit](https://mdmuradhossain.github.io/resume/)
-[Download](https://github.com/mdmuradhossain/portfolio/raw/master/resume/murad.pdf)
+[Download](https://github.com/mdmuradhossain/portfolio/raw/master/resume/Md%20Murad%20Hossain.pdf)
 ---
 ## 🔗 Social Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mdmuradhossain.github.io/portfolio/)
