@@ -1,7 +1,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I'm+Md+Murad+Hossain!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-  ### A full-stack Software Developer
+  ### A Full-Stack Software Developer
 
 ## 🛠 Skills
 ### FrontEnd Skills
@@ -16,13 +16,13 @@ I have studied Computer Science and Engineering at the University Of Liberal Art
 I'm a full-stack developer and love to work with web applications.
 
 - 🔭 I’m currently working at [SEBPO](https://sebpo.com/) as a Software Engineer...
-- 🌱 I’m currently learning Microservice, DevOps...
+- 🌱 I’m currently learning DevOps...
 - 💬 Ask me about software development... 
 - 📫 How to reach me: mdmuradhossain@hotmail.com
 - ⚡ Some fact: Introvert...
 ## 📭 Resume
 [Visit](https://mdmuradhossain.github.io/resume/)
-[Download](https://github.com/mdmuradhossain/portfolio/raw/master/resume/Md%20Murad%20Hossain.pdf)
+[Download](https://github.com/mdmuradhossain/portfolio/raw/master/resume/MdMuradHossain.pdf)
 ---
 ## 🔗 Social Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mdmuradhossain.github.io/portfolio/)
